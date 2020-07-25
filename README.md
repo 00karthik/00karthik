@@ -1,7 +1,3 @@
-
-[<img style="border: 1px solid transparent; border-radius: 50%;" src='https://karthikk.xyz/karthik.jpg#thumbnail' alt='karthik' height='200'>](https://karthikk.xyz)
-
-
 Hi, I'm Karthik. 👋
 ----------------
 

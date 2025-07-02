@@ -16,6 +16,5 @@ Reach out to me for any help. Always happy to help and give back to the communit
 
 Email: karthikvillanchira@gmail.com
 
-Phone: [+919744252268](tel:+919744252268)
 
 [reach.at/karthik](https://reach.at/karthik)

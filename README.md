@@ -1,20 +1,26 @@
-Hi, I'm Karthik. 👋
-----------------
+Hi, I'm Karthik 👋  
+------------------
 
-I'm a full-stack developer based in Bengaluru, India. I enjoy bringing ideas to life. I am working as a Senior Software Engineer for **[Collect.chat](https://collect.chat)**. We provide automated chatbots for websites.
+I'm a **product engineer and technical leader** based in Berlin, Germany — passionate about building scalable systems, designing clean architectures, and turning ideas into impactful products.  
+I love working at the intersection of **engineering, design, and business**, where technology directly shapes user experience and product growth.
 
-I'm interested in building software products, startups, learning new technologies, and traveling. I am currently building **[Surveyjoy](https://surveyjoy.co)**, a survey collection and analytics platform. I have built **[GitX](https://gitxapp.com)**, an open-source Chrome extension for sharing private notes in GitHub and **[Webscan](https://chrome.google.com/webstore/detail/web-scan-web-technology-l/hfcopfpmehaahmglocoolmgidihnjdgn)**, a web technology lookup chrome plugin.
+Currently, I'm tinkering with **AI-driven workflows** — exploring ways to combine **LLMs**, **automation**, and **event-driven systems** to make engineering processes smarter and faster.
 
-I work mainly in the Javascript and TypeScript domain. Having 3+ years of experience, I am proficient in **Reactjs**, **Nodejs**, **Angular**, **MongoDb**, **CI/CD** pipelines, **Docker**, **AWS**, and related technologies.
+In the past, I’ve worked on large-scale replatforming projects, developer tooling, and cloud-native systems.  
+I’m always learning, sharing, and building things that solve real problems elegantly.
 
-Reach out to me for any help. Always happy to help and give back to the community.
+### 🧠 Tech Stack
+**Languages:** TypeScript, Go  
+**Frameworks:** Node.js, NestJS, React, Express.js  
+**Architecture:** Domain-Driven Design (DDD), Event-Driven Architecture, CQRS, Microservices  
+**DevOps:** AWS, Docker, Kubernetes, Terraform, GitHub Actions  
+**AI & Automation:** OpenAI API, LangChain, AWS Bedrock, Serverless AI  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
 
-### Connect with me 
+### 🌐 Connect with Me
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/00karthik) &nbsp;
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/00karthik) &nbsp;
+[![Medium](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg)](https://medium.com/@karthikvillanchira) &nbsp;
+[![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/6087555/karthik) &nbsp;
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/karthikvillanchira/)&nbsp; &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/producthunt.svg' alt='website' height='30'>](https://www.producthunt.com/@itskarthik)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='twitter' height='30'>](https://medium.com/@karthikvillanchira) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/6087555/karthik?tab=profile) &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/itskarthik95) &nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/itsmekarthik/)&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://karthikk.xyz/)&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='website' height='30'>](https://www.quora.com/profile/Karthik-S-Kumar)
-
-Email: karthikvillanchira@gmail.com
-
-
-[reach.at/karthik](https://reach.at/karthik)
+📫 **Email:** [karthikvillanchira@gmail.com](mailto:karthikvillanchira@gmail.com)

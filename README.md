@@ -18,9 +18,10 @@ I’m always learning, sharing, and building things that solve real problems ele
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/00karthik) &nbsp;
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/00karthik) &nbsp;
-[![Medium](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg)](https://medium.com/@karthikvillanchira) &nbsp;
-[![Stack Overflow](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)](https://stackoverflow.com/users/6087555/karthik) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/00karthik)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/00karthik)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@karthikvillanchira)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6087555/karthik)
+
 
 📫 **Email:** [karthikvillanchira@gmail.com](mailto:karthikvillanchira@gmail.com)

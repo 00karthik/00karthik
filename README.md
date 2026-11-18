@@ -3,9 +3,6 @@
 **Product Engineer & Technical Leader** · Berlin, Germany 🇩🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/00karthik)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@karthikvillanchira)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6087555/karthik)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karthikvillanchira@gmail.com)
 
 I build scalable products and distributed systems, working where **engineering, architecture and product** meet: turning complex problems into simple, reliable solutions.
 

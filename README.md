@@ -1,29 +1,26 @@
 # Hi, I'm Karthik 👋
 
-**Product Engineer & Technical Leader** · Berlin, Germany 🇩🇪
+Product engineer in Berlin 🇩🇪
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/00karthik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karthikvillanchira@gmail.com)
 
-I build scalable products and distributed systems, working where **engineering, architecture and product** meet: turning complex problems into simple, reliable solutions.
+I like the product side as much as the code: figuring out what people actually need, keeping it simple, and then building it properly. Most of my work has been on backend and distributed systems that run at scale: event-driven services, high-throughput APIs and the cloud setup around them. Over time I've also picked up mobile, design and the small details that come with shipping an app.
 
-- 🔭 **Now:** exploring AI-driven engineering workflows that combine LLMs, automation and event-driven systems to make software development faster and smarter.
-- 🏗️ **Before:** large-scale replatforming, developer tooling and cloud-native platforms.
-- ⚡ **Focus:** high-throughput, low-latency APIs and event-driven architectures that scale with the business.
+- 💼 Full time: backend and distributed systems at scale, high-traffic APIs, event streaming and large replatforming projects
+- ⛽ Building [GoTank](https://gotank.app) on the side
+- 🔭 Playing with LLMs and automation in everyday engineering work
 
-### 🚀 What I like building
+### 💡 Things I'm into
 
-- Event-driven and distributed systems on Kafka and Pub/Sub
-- Scalable microservices and cloud-native platforms
-- Reliable, data-intensive applications with PostgreSQL and Redis
-- AI-powered developer tools and engineering automation
+- Small everyday problems that are worth solving well
+- Open public data, and making it easy to use
+- Apps for the car (Android Auto, Automotive, CarPlay)
+- Event-driven and distributed systems
+- Taking an idea all the way to the app store, and learning from what users say after
 
-### 🧠 Tech stack
+### 🧰 Tools I use
 
-| Area | Tools |
-| --- | --- |
-| **Languages** | TypeScript · Go · Node.js |
-| **Architecture** | DDD · Event-Driven Architecture · CQRS · Microservices |
-| **Messaging** | Apache Kafka · Google Pub/Sub · AWS SNS/SQS · EventBridge · Kinesis |
-| **Cloud & DevOps** | AWS · GCP · Docker · Kubernetes · Terraform · GitHub Actions |
-| **AI** | OpenAI API · LangChain · AWS Bedrock · LLM workflows |
-| **Data** | PostgreSQL · MySQL · MongoDB · Redis · DynamoDB |
+TypeScript · Go · Node.js · Kotlin · Swift · Kafka · Pub/Sub · AWS · GCP · Docker · Kubernetes · Terraform · PostgreSQL · Redis · Supabase · Cloudflare Workers
+
+Always happy to chat about products, side projects or systems. Feel free to reach out.
